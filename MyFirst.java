@@ -14,6 +14,7 @@ class MyFirst
           //   System.err.println("Sum of two number is" + c);
           String str = s.next();
           System.err.println("Welcome "+str);
+          System.err.println("This side ashish");
 
        }
    
